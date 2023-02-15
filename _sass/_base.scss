@@ -179,6 +179,9 @@ blockquote {
   }
   .navbar-brand {
     color: var(--header-theme-color);
+    .font-weight-bold {
+      color: var(--header-theme-color);
+    }
   }
   .navbar-nav .nav-item .nav-link {
     color: var(--header-theme-color);
