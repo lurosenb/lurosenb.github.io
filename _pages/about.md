@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: PhD Candidate, <a href='https://airesponsibly.net/'>Center for Responsible AI @NYU</a>.
 
@@ -21,4 +21,4 @@ Broadly, my work aims to answer open questions on data privacy, algorithmic fair
 
 I was formerly a member of the [Microsoft AI rotational program](https://www.microsoftnewengland.com/maidap/), working out of the New England Research and Development lab (and remotely during COVID!). In 2019 I graduated from Brown University, where I wrote a thesis about AI and self-data collection. 
 
-I happen to own a [school bus]() that I've spent a lot of time [converting into a mobile home]() and finding a permanent home for it in rural Vermont. If you like, I'll give you some great [reasons to buy a bus](), and arguably some better [reasons not to](). I also make [movies]() and write as much as I can.
+I happen to own a [school bus](blog/2021/bus/) that I've spent a lot of time [converting into a mobile home]() and finding a permanent home for it in rural Vermont. If you like, I'll give you some great [reasons to buy a bus](), and arguably some better [reasons not to](). I also make [movies]() and write as much as I can.

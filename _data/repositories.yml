@@ -1,12 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - lurosenb
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - opendp/smartnoise-sdk
+  - DataResponsibly/SynRD
+  - lurosenb/simplifying_counterfactual_fairness
+  - lurosenb/Unbankedness_and_CDFIs_in_NYC
