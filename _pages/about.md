@@ -8,16 +8,16 @@ profile:
   align: left
   image: lucas_photo.jpeg
   image_circular: false # crops the image to make it circular
-  address: <a href='/assets/pdf/lucas_rosenblatt_cv_march_2023.pdf'>Link to CV</a>
+  address: <a href='/assets/pdf/lucas_rosenblatt_cv_2023.pdf'>Link to CV</a>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a second year PhD candidate at NYU where I am advised by [Julia Stoyanovich](https://stoyanovich.org/) and work closely with [Christoper Musco](https://www.chrismusco.com/) and [Bill Howe (of UW)](https://faculty.washington.edu/billhowe/). I am affiliated with the [NYU Center for Responsible AI](https://airesponsibly.net/). I am grateful to be supported by a [NSF Graduate Research Fellowship](https://www.nsfgrfp.org/).
+I am a third year PhD candidate at NYU where I am advised by [Julia Stoyanovich](https://stoyanovich.org/) and work closely with [Christoper Musco](https://www.chrismusco.com/) and [Bill Howe (of UW)](https://faculty.washington.edu/billhowe/). I am affiliated with the [NYU Center for Responsible AI](https://airesponsibly.net/). I am grateful to be supported by a [NSF Graduate Research Fellowship](https://www.nsfgrfp.org/).
 
-Broadly, my work aims to answer open questions on data privacy, algorithmic fairness and AI safety, with an eye towards improving society and doing social good. 
+Broadly, my work aims to answer open questions on data privacy, algorithmic fairness, climate, AI with social impact, all with an eye towards doing social good. 
 
 I was formerly a member of the [Microsoft AI rotational program](https://www.microsoftnewengland.com/maidap/), working out of the New England Research and Development lab (and remotely during COVID!). In 2019 I graduated from Brown University, where I wrote a thesis about AI and self-data collection. 
 
