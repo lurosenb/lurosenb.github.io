@@ -15,9 +15,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a third year PhD candidate at NYU where I am advised by [Julia Stoyanovich](https://stoyanovich.org/) and work closely with [Christoper Musco](https://www.chrismusco.com/). At NYU, I am affiliated with the [NYU Center for Responsible AI](https://airesponsibly.net/) and the [Theoretical Computer Science @ NYU Group](https://cs.nyu.edu/theory-group/index.html). I also work closely with [Bill Howe (of UW)](https://faculty.washington.edu/billhowe/) and with the [Volitional AI Lab](https://billhowelab.github.io/) (also at UW). I am grateful to be supported by a [NSF Graduate Research Fellowship](https://www.nsfgrfp.org/).
+I am a fourth year PhD candidate at NYU where I am advised by [Julia Stoyanovich](https://stoyanovich.org/) and work closely with [Christoper Musco](https://www.chrismusco.com/). At NYU, I am affiliated with the [NYU Center for Responsible AI](https://airesponsibly.net/) and the [Theoretical Computer Science @ NYU Group](https://cs.nyu.edu/theory-group/index.html). I work closely with [Bill Howe (of UW)](https://faculty.washington.edu/billhowe/) and with the [Volitional AI Lab](https://billhowelab.github.io/) (also at UW). I also work with [Rachel Cummings (of Columbia)](https://rachelcummings.com/) and her group. I am grateful to be supported by a [NSF Graduate Research Fellowship](https://www.nsfgrfp.org/).
 
-Broadly, my work aims to answer open questions on data privacy, algorithmic fairness, climate, AI with social impact, all with an eye towards doing social good. 
+Broadly, my work aims to answer open questions on data privacy, algorithmic fairness, climate, AI with social impact, and LLMs, all with an eye towards doing social good. 
 
 I was formerly a member of the [Microsoft AI rotational program](https://www.microsoftnewengland.com/maidap/), working out of the New England Research and Development lab (and remotely during COVID!). In 2019 I graduated from Brown University, where I wrote a thesis about AI and self-data collection. 
 
