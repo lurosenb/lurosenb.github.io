@@ -24,4 +24,4 @@ I was formerly a member of the [Microsoft AI rotational program](https://www.mic
 I happen to own a [school bus](blog/2021/bus/) that I've spent a lot of time [converting into a mobile home]() and finding a permanent home for it in rural Vermont. If you like, I'll give you some great [reasons to buy a bus](), and arguably some better [reasons not to](). I also make [movies]() and write as much as I can.
 
 #### Service
-Reviewer: ICML 2025, FAccT 2025, ICLR 2025, AISTATS 2025, Neurips 2024, SOSA 2024, CHI 2023
+Reviewer: KDD 2025, ICML 2025, FAccT 2025, ICLR 2025, AISTATS 2025, TPDP 2025, Neurips 2024, SOSA 2024, CHI 2023
