@@ -1,0 +1,9 @@
+---
+layout: post
+date: 2025-05-19 01:59:00-0400
+inline: true
+---
+
+(Belatedly, and happily) sharing that we have two forthcoming papers at ICML,
+- the first, on a new (and I think well motivated) threat model for LLMs, [Fragments to Facts: Partial-Information Fragment Inference from LLMs]() is with [Bin Han](https://wolferobert3.github.io/), [Robert Wolfe](https://wolferobert3.github.io/), and [Bill Howe](https://faculty.washington.edu/billhowe/).
+- and the second, which we had already released as a pre-print, [Differential Privacy Under Class Imbalance: Methods and Empirical Insights](https://arxiv.org/pdf/2411.05733) with [Rachel Cummings](https://rachelcummings.com/) and [Marco Avella Medina](https://sites.google.com/site/marcoavellamedina/home).
