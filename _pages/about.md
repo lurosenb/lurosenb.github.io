@@ -8,7 +8,7 @@ profile:
   align: left
   image: lucas_photo.jpeg
   image_circular: false # crops the image to make it circular
-  address: <a href='/assets/pdf/lucas_rosenblatt_cv_2023.pdf'>Link to CV</a>
+  address: <a href='/assets/pdf/lucas_rosenblatt_cv_may_2025.pdf'>Link to CV</a>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
