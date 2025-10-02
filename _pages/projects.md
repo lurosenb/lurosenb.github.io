@@ -3,7 +3,7 @@ layout: page
 title: Projects
 permalink: /projects/
 description: Various projects that I have been involved in.
-nav: true
+nav: false
 nav_order: 2
 display_categories: [academic, film, bus]
 horizontal: false
