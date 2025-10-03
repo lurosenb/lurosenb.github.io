@@ -62,7 +62,7 @@ ML Engineer/Researcher — Cambridge, MA
 • AI rotational program serving Microsoft organizations with applied research in machine learning.
 • Rotations: Grey Systems Lab, Microsoft+Harvard OpenDP (Smartnoise), Microsoft News, Fairlearn. -->
 
-### Industrial Research Experience
+### Industry Research Experience
 
 - **Google Research (NYC)**, Student Researcher, June 2025 – Present  
   Working with [Ryan Mckenna](https://scholar.google.com/citations?user=qv5vhKEAAAAJ&hl=en) and [Natalia Ponomareva](https://scholar.google.com/citations?user=eIdQR5oAAAAJ&hl=en) as part of [Servei Vassilvitskii’s](https://theory.stanford.edu/~sergei/) group, on tabular data privacy problems with open-source Gemma models.
