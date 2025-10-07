@@ -49,7 +49,7 @@ I try to design and evaluate approaches that are theoretically sound, practicall
 - [Fragments to Facts: Partial-Information Fragment Inference from LLMs.](https://arxiv.org/pdf/2505.13819) *ICML 2025*.
 - [Epistemic Parity: Reproducibility as an Evaluation Metric for Differential Privacy.](https://dl.acm.org/doi/pdf/10.1145/3665252.3665267) *VLDB 2023* **[Best Paper Runner-Up]**
 
-See the full list on my [Publications](/publications) page.
+See the full list on my [google scholar profile](https://scholar.google.com/citations?user=cDwuS6gAAAAJ).
 
 ---
 
