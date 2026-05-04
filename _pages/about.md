@@ -26,7 +26,7 @@ My research develops **trustworthy and privacy-preserving algorithms**, focusing
 <br><br><br>
 <!-- Job-market callout -->
 <div role="note" class="alert alert-primary" style="background:#eef5ff;border:1px solid #cfe2ff;padding:0.85rem 1rem;border-radius:0.375rem;margin:0.75rem 0 1.25rem 0;">
-  <strong>Incoming Assistant Professor at <a href="https://csci.williams.edu/">Williams College Computer Science</a>!</strong>
+  <strong>Incoming Assistant Professor of Computer Science at <a href="https://csci.williams.edu/">Williams College</a>!</strong>
 </div>
 
 ---
