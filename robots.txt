@@ -2,5 +2,6 @@ User-agent: *
 Disallow: /teaching/
 Disallow: /cv/
 Disallow: /repositories/
+Disallow: /projects/
 
 Sitemap: https://lurosenb.github.io/sitemap.xml
