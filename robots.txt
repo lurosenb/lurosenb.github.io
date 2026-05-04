@@ -2,6 +2,8 @@
 permalink: /robots.txt
 ---
 User-agent: *
-Disallow:
+Disallow: /teaching/
+Disallow: /cv/
+Disallow: /repositories/
 
 Sitemap: {{ site.baseurl | prepend: site.url }}/sitemap.xml
