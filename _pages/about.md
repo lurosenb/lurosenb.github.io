@@ -95,7 +95,7 @@ I have taught or TA’d **eight courses** across graduate and undergraduate leve
 
 ### Service
 
-- **Conference Reviewing:** ICML Gold Reviewer 2026, 2025, Neurips 2026, 2025, ICLR 2026, 2025, AISTATS 2026, 2025,  2024, KDD 2025, FAccT 2025, TPDP 2025, SOSA 2024, CHI 2023
+- **Conference Reviewing:** ICML Gold Reviewer 2026, 2025, COLT 2026, TPDP 2026, 2025, Neurips 2026, 2025, ICLR 2026, 2025, AISTATS 2026, 2025,  2024, KDD 2025, FAccT 2025, SOSA 2024, CHI 2023
 - **Event Organization:**  
   - Lead organizer, [NYU Privacy Day (Spring '24)](https://airesponsibly.net/privacy_day/)  
   - Co-organizer, [NAIRR Community-Informed Policies Workshop (Summer '24)](https://airesponsibly.net/nairr_2024/)
