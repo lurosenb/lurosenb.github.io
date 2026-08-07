@@ -7,13 +7,16 @@
  ******************************************************************************/
 :root {
   --global-bg-color: #ffffff;
-  --global-code-bg-color: rgba(181, 9, 172, 0.05);
+  --global-code-bg-color: rgba(51, 0, 102, 0.06);
   --global-text-color: #000000;
   --global-text-color-light: #828282;
   --header-theme-color: #ffffff;
-  --header-hover-color: #e8e8e8;
-  --global-theme-color: #B509AC;
-  --global-hover-color: #B509AC;
+  --header-hover-color: #FFD100;
+  --header-active-color: #FFD100;
+  --global-navbar-bg-color: #330066;
+  --global-navbar-accent-color: #FFD100;
+  --global-theme-color: #330066;
+  --global-hover-color: #6600cc;
   --global-footer-bg-color: #1C1C1D;
   --global-footer-text-color: #e8e8e8;
   --global-footer-link-color: #ffffff;
@@ -41,8 +44,8 @@ html[data-theme=dark] {
   --global-code-bg-color: #2c3237;
   --global-text-color: #e8e8e8;
   --global-text-color-light: #e8e8e8;
-  --global-theme-color: #2698BA;
-  --global-hover-color: #2698BA;
+  --global-theme-color: #FFD100;
+  --global-hover-color: rgb(100%, 88.4549019608%, 36%);
   --global-footer-bg-color: #e8e8e8;
   --global-footer-text-color: #1C1C1D;
   --global-footer-link-color: #000000;
@@ -217,8 +220,8 @@ blockquote {
 
 .navbar {
   box-shadow: none;
-  border-bottom: 1px solid var(--global-divider-color);
-  background-color: rgb(87, 6, 140);
+  border-bottom: 3px solid var(--global-navbar-accent-color);
+  background-color: var(--global-navbar-bg-color);
   opacity: 0.95;
 }
 
@@ -262,7 +265,7 @@ blockquote {
 .navbar.navbar-light .navbar-nav .nav-item.active > .nav-link {
   background-color: inherit;
   font-weight: bolder;
-  color: var(--header-theme-color);
+  color: var(--header-active-color);
 }
 .navbar.navbar-light .navbar-nav .nav-item.active > .nav-link:hover {
   color: var(--header-hover-color);
@@ -487,6 +490,15 @@ footer.sticky-bottom {
   margin-top: 2rem;
   margin-bottom: 1rem;
   text-align: right;
+}
+
+.news table th {
+  white-space: nowrap;
+  padding-right: 1.25rem;
+  vertical-align: top;
+}
+.news table td {
+  vertical-align: top;
 }
 
 .publications {
