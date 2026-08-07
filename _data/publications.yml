@@ -1,0 +1,114 @@
+# -----------------------------------------------------------------------------
+# Publications, 2024 onward. Rendered by _includes/publications_list.html on both
+# the home page (/) and the publications page (/publications/).
+#
+# Format:
+#   - title:   "Paper Title"
+#     authors: "First Author, Second Author, Lucas Rosenblatt"
+#     venue:   "NeurIPS 2025"            # or "arXiv preprint, 2026", etc.
+#     url:     "https://.../paper.pdf"   # best available PDF, optional
+#     note:    "Best Paper Runner-Up"    # optional, shown in the accent color
+# -----------------------------------------------------------------------------
+
+- year: 2026
+  papers:
+    - title: "Privately Fine-Tuned LLMs Preserve Temporal Dynamics in Tabular Data"
+      authors: "Lucas Rosenblatt, Peihan Liu, Ryan McKenna, Natalia Ponomareva"
+      venue: "International Conference on Machine Learning (ICML) 2026"
+      url: "https://arxiv.org/pdf/2602.02766"
+
+    - title: "Exactly Computing do-Shapley Values"
+      authors: "R. Teal Witter, Álvaro Parafita, Tomas Garriga, Maximilian Muschalik, Fabian Fumagalli, Axel Brando, Lucas Rosenblatt"
+      venue: "International Conference on Machine Learning (ICML) 2026"
+      url: "https://arxiv.org/pdf/2602.07203"
+
+    - title: "Epistemic Parity: Reproducibility as an Evaluation Metric for Differential Privacy"
+      authors: "Lucas Rosenblatt, Bernease Herman, Anastasia Holovenko, Wonkwon Lee, Joshua R. Loftus, Elizabeth McKinnie, Taras Rumezhak, Andrii Stadnik, Bill Howe, Julia Stoyanovich"
+      venue: "Communications of the ACM, 69(7), 2026"
+      url: "https://dl.acm.org/doi/10.1145/3807967"
+      note: "CACM Research Highlight"
+
+    - title: "How to DP-Fy Your Data: A Practical Guide to Generating Synthetic Data with Differential Privacy"
+      authors: "Natalia Ponomareva, Zheng Xu, H. Brendan McMahan, Peter Kairouz, Lucas Rosenblatt, Vincent Cohen-Addad, Cristóbal Guzmán, Ryan McKenna, Galen Andrew, Alex Bie, Da Yu, Alex Kurakin, Morteza Zadimoghaddam, Sergei Vassilvitskii, Andreas Terzis"
+      venue: "Journal of Artificial Intelligence Research (JAIR), 86, 2026"
+      url: "https://www.jair.org/index.php/jair/article/download/21111/27321"
+
+    - title: "ContinuousBench: Can Differentially Private Synthetic Text Improve Capabilities?"
+      authors: "Peihan Liu, Lucas Rosenblatt, Weiwei Kong, Natalia Ponomareva, Gautam Kamath, Rachel Cummings, Roxana Geambasu, Yu Gan, Lillian Tsai, Alex Bie"
+      venue: "arXiv preprint, 2026"
+      url: "https://arxiv.org/pdf/2606.01849"
+
+    - title: "Towards Provably Unbiased LLM Judges via Bias-Bounded Evaluation"
+      authors: "Benjamin Feuer, Lucas Rosenblatt, Oussama Elachqar"
+      venue: "arXiv preprint, 2026"
+      url: "https://arxiv.org/pdf/2603.05485"
+
+    - title: "Explanation Multiplicity in SHAP: Characterization and Assessment"
+      authors: "Hyunseung Hwang, Seungeun Lee, Lucas Rosenblatt, Steven Euijong Whang, Julia Stoyanovich"
+      venue: "arXiv preprint, 2026"
+      url: "https://arxiv.org/pdf/2601.12654"
+
+    - title: "Trustworthy Differentially Private Data Generation and Predictive Modeling"
+      authors: "Lucas Rosenblatt"
+      venue: "PhD dissertation, New York University, 2026"
+
+- year: 2025
+  papers:
+    - title: "Do You Really Need Public Data? Surrogate Public Data for Differential Privacy on Tabular Data"
+      authors: "Shlomi Hod, Lucas Rosenblatt, Julia Stoyanovich"
+      venue: "NeurIPS 2025 (Datasets & Benchmarks Track)"
+      url: "https://proceedings.neurips.cc/paper_files/paper/2025/file/0e9354232996c1b2c54d38a41393d791-Paper-Datasets_and_Benchmarks_Track.pdf"
+
+    - title: "Sharper Bounds for Chebyshev Moment Matching, with Applications to Differential Privacy and Beyond"
+      authors: "Cameron Musco, Christopher Musco, Lucas Rosenblatt, Apoorv Vikram Singh"
+      venue: "Conference on Learning Theory (COLT) 2025"
+      url: "https://raw.githubusercontent.com/mlresearch/v291/main/assets/musco25a/musco25a.pdf"
+
+    - title: "Fragments to Facts: Partial-Information Fragment Inference from LLMs"
+      authors: "Lucas Rosenblatt, Bin Han, Robert Wolfe, Bill Howe"
+      venue: "International Conference on Machine Learning (ICML) 2025"
+      url: "https://raw.githubusercontent.com/mlresearch/v267/main/assets/rosenblatt25a/rosenblatt25a.pdf"
+
+    - title: "Differential Privacy Under Class Imbalance: Methods and Empirical Insights"
+      authors: "Lucas Rosenblatt, Yuliia Lut, Eitan Turok, Marco Avella-Medina, Rachel Cummings"
+      venue: "International Conference on Machine Learning (ICML) 2025"
+      url: "https://raw.githubusercontent.com/mlresearch/v267/main/assets/rosenblatt25b/rosenblatt25b.pdf"
+
+    - title: "SimKey: A Semantically Aware Key Module for Watermarking Language Models"
+      authors: "Shingo Kodama, Haya Diwan, Lucas Rosenblatt, R. Teal Witter, Niv Cohen"
+      venue: "arXiv preprint, 2025"
+      url: "https://arxiv.org/pdf/2510.12828"
+
+- year: 2024
+  papers:
+    - title: "A Simple and Practical Method for Reducing the Disparate Impact of Differential Privacy"
+      authors: "Lucas Rosenblatt, Julia Stoyanovich, Christopher Musco"
+      venue: "AAAI 2024"
+      url: "https://ojs.aaai.org/index.php/AAAI/article/download/30153/32044"
+
+    - title: "I Open at the Close: A Deep Reinforcement Learning Evaluation of Open Streets Initiatives"
+      authors: "R. Teal Witter, Lucas Rosenblatt"
+      venue: "AAAI 2024"
+      url: "https://ojs.aaai.org/index.php/AAAI/article/download/30250/32228"
+
+    - title: "Laboratory-Scale AI: Open-Weight Models are Competitive with ChatGPT Even in Low-Resource Settings"
+      authors: "Robert Wolfe, Isaac Slaughter, Bin Han, Bingbing Wen, Yiwei Yang, Lucas Rosenblatt, Bernease Herman, Eva Maxfield Brown, Zening Qu, Nic Weber, Bill Howe"
+      venue: "ACM Conference on Fairness, Accountability, and Transparency (FAccT) 2024"
+      url: "https://dl.acm.org/doi/pdf/10.1145/3630106.3658966"
+
+    - title: "Epistemic Parity: Reproducibility as an Evaluation Metric for Differential Privacy"
+      authors: "Lucas Rosenblatt, Bernease Herman, Anastasia Holovenko, Wonkwon Lee, Joshua R. Loftus, Elizabeth McKinnie, Taras Rumezhak, Andrii Stadnik, Bill Howe, Julia Stoyanovich"
+      venue: "SIGMOD Record, 53(1), 2024"
+      note: "SIGMOD Research Highlight"
+      url: "https://dl.acm.org/doi/pdf/10.1145/3665252.3665267"
+
+    - title: "FairlyUncertain: A Comprehensive Benchmark of Uncertainty in Algorithmic Fairness"
+      authors: "Lucas Rosenblatt, R. Teal Witter"
+      venue: "arXiv preprint, 2024"
+      url: "https://arxiv.org/pdf/2410.02005"
+
+    - title: "Are Data Experts Buying into Differentially Private Synthetic Data? Gathering Community Perspectives"
+      authors: "Lucas Rosenblatt, Bill Howe, Julia Stoyanovich"
+      venue: "arXiv preprint, 2024"
+      url: "https://arxiv.org/pdf/2412.13030"
+

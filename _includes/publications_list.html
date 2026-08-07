@@ -1,0 +1,31 @@
+<!-- publications_list.html
+     Renders _data/publications.yml on the home page and on /publications/. -->
+
+<div class="publications">
+  {%- for group in site.data.publications %}
+  <h2 class="year">{{ group.year }}</h2>
+  <ol class="bibliography">
+    {%- for pub in group.papers %}
+    <li>
+      <div class="title">
+        {%- if pub.url -%}
+        <a href="{{ pub.url }}">{{ pub.title }}</a>
+        {%- else -%}
+        {{ pub.title }}
+        {%- endif -%}
+      </div>
+      <div class="author">{{ pub.authors | replace: "Lucas Rosenblatt", "<em>Lucas Rosenblatt</em>" }}</div>
+      <div class="periodical">
+        <em>{{ pub.venue }}</em>
+        {%- if pub.note %} &middot; <span style="color: var(--global-theme-color);">{{ pub.note }}</span>{% endif -%}
+      </div>
+    </li>
+    {%- endfor %}
+  </ol>
+  {%- endfor %}
+
+  <p style="margin-top: 2rem; color: var(--global-text-color-light);">
+    Publications before 2024 are listed on my
+    <a href="https://scholar.google.com/citations?user={{ site.scholar_userid }}&hl=en">Google Scholar profile</a>.
+  </p>
+</div>

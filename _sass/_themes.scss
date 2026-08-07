@@ -8,9 +8,12 @@
   --global-text-color: #{$black-color};
   --global-text-color-light: #{$grey-color};
   --header-theme-color: #{$white-color};
-  --header-hover-color: #{$grey-color-light};
-  --global-theme-color: #{$purple-color};
-  --global-hover-color: #{$purple-color};
+  --header-hover-color: #{$williams-gold};
+  --header-active-color: #{$williams-gold};
+  --global-navbar-bg-color: #{$williams-purple};
+  --global-navbar-accent-color: #{$williams-gold};
+  --global-theme-color: #{$williams-purple};
+  --global-hover-color: #{$williams-purple-light};
   --global-footer-bg-color: #{$grey-color-dark};
   --global-footer-text-color: #{$grey-color-light};
   --global-footer-link-color: #{$white-color};
@@ -40,8 +43,8 @@ html[data-theme='dark'] {
   --global-code-bg-color: #{$code-bg-color-dark};
   --global-text-color: #{$grey-color-light};
   --global-text-color-light: #{$grey-color-light};
-  --global-theme-color: #{$cyan-color};
-  --global-hover-color: #{$cyan-color};
+  --global-theme-color: #{$williams-gold};
+  --global-hover-color: #{$williams-gold-light};
   --global-footer-bg-color: #{$grey-color-light};
   --global-footer-text-color: #{$grey-color-dark};
   --global-footer-link-color: #{$black-color};

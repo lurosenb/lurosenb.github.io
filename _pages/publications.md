@@ -2,17 +2,11 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: Here is work that I've either submitted somewhere, or that's up on arXiv.
-years: [2025, 2024, 2023, 2022, 2021, 2020, 2018, 2017]
-nav: false
-nav_order: 1
+description: Everything from 2024 onward. Titles link to the best available PDF; older work is on Google Scholar.
+nav: true
+nav_order: 2
 ---
-<!-- _pages/publications.md -->
-<div class="publications">
 
-{%- for y in page.years %}
-  <h2 class="year">{{y}}</h2>
-  {% bibliography -f papers -q @*[year={{y}}]* %}
-{% endfor %}
+<!-- The list itself lives in _data/publications.yml. -->
 
-</div>
+{% include publications_list.html %}
