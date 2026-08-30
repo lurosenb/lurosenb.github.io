@@ -23,7 +23,7 @@ I completed my PhD in Computer Science at NYU, supported by an [NSF Graduate Res
 
 <div style="border-left: 3px solid var(--global-theme-color); background-color: var(--global-card-bg-color); padding: 0.9rem 1.1rem; border-radius: 0.25rem; margin: 1.75rem 0;">
   <strong>Interested in working with me?</strong>
-  I am <strong>not</strong> taking on new student researchers this fall, but I <strong>will be</strong> taking students on in the spring. If you are an interested Williams student, a great first step is to take my course, <strong>CSCI 382: Responsible AI/ML</strong>.
+  I am <strong>not</strong> taking on new student researchers this fall, but I <strong>will be</strong> taking students on in the spring. If you are an interested Williams student, a great first step is to take my course, <strong>[CSCI 382: Responsible AI/ML](https://lucasrosenblatt.com/cs382/)</strong>.
 </div>
 
 {% include news.html %}
@@ -33,6 +33,10 @@ I completed my PhD in Computer Science at NYU, supported by an [NSF Graduate Res
 {% include publications_list.html %}
 
 ## Teaching
+
+Courses I'm teaching/have taught at Williams:
+
+- **[CSCI 382: Responsible AI/ML](https://lucasrosenblatt.com/cs382/)**: Fall 2026
 
 Courses I taught or TA'd in grad school:
 
