@@ -151,6 +151,20 @@
 <table class="table table-sm table-borderless">
 
 <tr>
+<th scope="row">Nov 2, 2026</th>
+<td>
+New pre-print that I’m quite excited about: <a href="https://arxiv.org/pdf/2610.42081" rel="external nofollow noopener" target="_blank">Differentially Private Synthetic Data from Sliced Chebyshev Moments</a> with <a href="https://www.rtealwitter.com/" rel="external nofollow noopener" target="_blank">Teal Witter</a> and <a href="https://www.chrismusco.com/" rel="external nofollow noopener" target="_blank">Chris Musco</a>. Many practical DP synthetic data methods only preserve low-dimensional marginals, and so can only capture global structure by (essentially) luck. Our algorithm, SPLICE, gets around this by matching noisy <em>sliced</em> Chebyshev moments. We actually prove a Sliced Wasserstein-1 guarantee that is <strong>independent of the data dimension</strong>, and  we show that SPLICE is state-of-the-art on some measures in an extensive benchmark. This paper ties together a few different threads from the past few years, please reach out with questions / comments!
+
+</td>
+</tr>
+<tr>
+<th scope="row">Nov 2, 2026</th>
+<td>
+<a href="https://arxiv.org/pdf/2601.12654" rel="external nofollow noopener" target="_blank">Explanation Multiplicity in SHAP: Characterization and Assessment</a> was accepted to the <a href="https://neurips.cc/Conferences/2026" rel="external nofollow noopener" target="_blank">NeurIPS 2026</a> Datasets &amp; Benchmarks track. Much of the credit here goes to Daniel (Hyunseung) Hwang, who led the project, alongside Seungeun Lee. This work shows that SHAP explanations can differ substantially across repeated runs even with the model, input, and prediction held fixed. Thus, a single-run SHAP output is best interpreted as a draw from a distribution over possible outputs, not as an some authoritative artifact.
+
+</td>
+</tr>
+<tr>
 <th scope="row">May 4, 2026</th>
 <td>
 Two papers accepted at <a href="https://icml.cc/Conferences/2026" rel="external nofollow noopener" target="_blank">ICML 2026</a>:
@@ -167,20 +181,6 @@ Two papers accepted at <a href="https://icml.cc/Conferences/2026" rel="external 
 <th scope="row">May 2, 2026</th>
 <td>
 I defended my PhD! Huge thanks to my committee: Julia Stoyanovich, Christopher Musco, Rachel Cummings, Bill Howe. And to everyone who came out to support :)
-
-</td>
-</tr>
-<tr>
-<th scope="row">May 1, 2026</th>
-<td>
-Co-organized <a href="https://sites.google.com/view/nyc-privacy-day/home" rel="external nofollow noopener" target="_blank">NYC Privacy Day</a> on May 1st! All the speakers were awesome, thanks to everyone who came out.
-
-</td>
-</tr>
-<tr>
-<th scope="row">Sep 19, 2025</th>
-<td>
-<a href="https://arxiv.org/pdf/2504.14368" rel="external nofollow noopener" target="_blank">Do You Really Need Public Data? Surrogate Public Data for Differential Privacy on Tabular Data</a> was accepted to <a href="https://neurips.cc/Conferences/2025" rel="external nofollow noopener" target="_blank">NeurIPS 2025</a>! Excited to present this work in San Diego this December along with Shlomi, feel free to reach out if you’re attending and want to chat.
 
 </td>
 </tr>
@@ -213,6 +213,13 @@ Co-organized <a href="https://sites.google.com/view/nyc-privacy-day/home" rel="e
 </div>
     </li>
     <li>
+      <div class="title"><a href="https://arxiv.org/pdf/2601.12654" rel="external nofollow noopener" target="_blank">Explanation Multiplicity in SHAP: Characterization and Assessment</a></div>
+      <div class="author">Hyunseung Hwang, Seungeun Lee, <em>Lucas Rosenblatt</em>, Steven Euijong Whang, Julia Stoyanovich</div>
+      <div class="periodical">
+        <em>NeurIPS 2026 (Datasets &amp; Benchmarks Track)</em>
+</div>
+    </li>
+    <li>
       <div class="title"><a href="https://dl.acm.org/doi/10.1145/3807967" rel="external nofollow noopener" target="_blank">Epistemic Parity: Reproducibility as an Evaluation Metric for Differential Privacy</a></div>
       <div class="author">
 <em>Lucas Rosenblatt</em>, Bernease Herman, Anastasia Holovenko, Wonkwon Lee, Joshua R. Loftus, Elizabeth McKinnie, Taras Rumezhak, Andrii Stadnik, Bill Howe, Julia Stoyanovich</div>
@@ -228,6 +235,14 @@ Co-organized <a href="https://sites.google.com/view/nyc-privacy-day/home" rel="e
 </div>
     </li>
     <li>
+      <div class="title"><a href="https://arxiv.org/pdf/2610.42081" rel="external nofollow noopener" target="_blank">Differentially Private Synthetic Data from Sliced Chebyshev Moments</a></div>
+      <div class="author">
+<em>Lucas Rosenblatt</em>, R. Teal Witter, Christopher Musco</div>
+      <div class="periodical">
+        <em>arXiv preprint, 2026</em>
+</div>
+    </li>
+    <li>
       <div class="title"><a href="https://arxiv.org/pdf/2606.01849" rel="external nofollow noopener" target="_blank">ContinuousBench: Can Differentially Private Synthetic Text Improve Capabilities?</a></div>
       <div class="author">Peihan Liu, <em>Lucas Rosenblatt</em>, Weiwei Kong, Natalia Ponomareva, Gautam Kamath, Rachel Cummings, Roxana Geambasu, Yu Gan, Lillian Tsai, Alex Bie</div>
       <div class="periodical">
@@ -237,13 +252,6 @@ Co-organized <a href="https://sites.google.com/view/nyc-privacy-day/home" rel="e
     <li>
       <div class="title"><a href="https://arxiv.org/pdf/2603.05485" rel="external nofollow noopener" target="_blank">Towards Provably Unbiased LLM Judges via Bias-Bounded Evaluation</a></div>
       <div class="author">Benjamin Feuer, <em>Lucas Rosenblatt</em>, Oussama Elachqar</div>
-      <div class="periodical">
-        <em>arXiv preprint, 2026</em>
-</div>
-    </li>
-    <li>
-      <div class="title"><a href="https://arxiv.org/pdf/2601.12654" rel="external nofollow noopener" target="_blank">Explanation Multiplicity in SHAP: Characterization and Assessment</a></div>
-      <div class="author">Hyunseung Hwang, Seungeun Lee, <em>Lucas Rosenblatt</em>, Steven Euijong Whang, Julia Stoyanovich</div>
       <div class="periodical">
         <em>arXiv preprint, 2026</em>
 </div>
@@ -401,7 +409,7 @@ Co-organized <a href="https://sites.google.com/view/nyc-privacy-day/home" rel="e
 
     <!-- Footer -->    <footer class="sticky-bottom mt-5">
       <div class="container">
-        © Copyright 2026 Lucas  Rosenblatt.<br>Last updated: August 31, 2026.
+        © Copyright 2026 Lucas  Rosenblatt.<br>Last updated: November 02, 2026.
       </div>
     </footer>
 
