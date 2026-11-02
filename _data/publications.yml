@@ -22,6 +22,11 @@
       venue: "International Conference on Machine Learning (ICML) 2026"
       url: "https://arxiv.org/pdf/2602.07203"
 
+    - title: "Explanation Multiplicity in SHAP: Characterization and Assessment"
+      authors: "Hyunseung Hwang, Seungeun Lee, Lucas Rosenblatt, Steven Euijong Whang, Julia Stoyanovich"
+      venue: "NeurIPS 2026 (Datasets & Benchmarks Track)"
+      url: "https://arxiv.org/pdf/2601.12654"
+
     - title: "Epistemic Parity: Reproducibility as an Evaluation Metric for Differential Privacy"
       authors: "Lucas Rosenblatt, Bernease Herman, Anastasia Holovenko, Wonkwon Lee, Joshua R. Loftus, Elizabeth McKinnie, Taras Rumezhak, Andrii Stadnik, Bill Howe, Julia Stoyanovich"
       venue: "Communications of the ACM, 69(7), 2026"
@@ -33,6 +38,11 @@
       venue: "Journal of Artificial Intelligence Research (JAIR), 86, 2026"
       url: "https://www.jair.org/index.php/jair/article/download/21111/27321"
 
+    - title: "Differentially Private Synthetic Data from Sliced Chebyshev Moments"
+      authors: "Lucas Rosenblatt, R. Teal Witter, Christopher Musco"
+      venue: "arXiv preprint, 2026"
+      url: "https://arxiv.org/pdf/2610.42081"
+
     - title: "ContinuousBench: Can Differentially Private Synthetic Text Improve Capabilities?"
       authors: "Peihan Liu, Lucas Rosenblatt, Weiwei Kong, Natalia Ponomareva, Gautam Kamath, Rachel Cummings, Roxana Geambasu, Yu Gan, Lillian Tsai, Alex Bie"
       venue: "arXiv preprint, 2026"
@@ -42,11 +52,6 @@
       authors: "Benjamin Feuer, Lucas Rosenblatt, Oussama Elachqar"
       venue: "arXiv preprint, 2026"
       url: "https://arxiv.org/pdf/2603.05485"
-
-    - title: "Explanation Multiplicity in SHAP: Characterization and Assessment"
-      authors: "Hyunseung Hwang, Seungeun Lee, Lucas Rosenblatt, Steven Euijong Whang, Julia Stoyanovich"
-      venue: "arXiv preprint, 2026"
-      url: "https://arxiv.org/pdf/2601.12654"
 
     - title: "Trustworthy Differentially Private Data Generation and Predictive Modeling"
       authors: "Lucas Rosenblatt"
